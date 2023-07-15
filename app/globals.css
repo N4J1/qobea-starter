@@ -42,6 +42,10 @@ main {
    z-index: 1;
 }
 
+.glow {
+   filter: drop-shadow(0 0 0.45rem #fff);
+}
+
 @media (max-width: 1200px) {
    main {
       background-size: calc(100vw / 3) calc(100vh / 4);
