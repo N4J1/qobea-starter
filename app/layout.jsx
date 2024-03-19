@@ -4,8 +4,8 @@ import { Unbounded } from "next/font/google";
 const unbounded = Unbounded({ subsets: ["latin"], weight: ["400"] });
 
 export const metadata = {
-   title: "Aspyer - Loading...",
-   description: "Prelaunch page for Aspyer tech.",
+   title: "Rebowrn - New generation Agency",
+   description: "New generation Agency.",
 };
 
 export default function RootLayout({ children }) {
